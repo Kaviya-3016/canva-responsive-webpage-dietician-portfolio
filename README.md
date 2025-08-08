@@ -26,18 +26,19 @@ This web design is made for a **Personal Dietician Portfolio Website** and showc
 
 ### 2. About Section
 
-
+![About Page](https://github.com/user-attachments/assets/0f7013be-8796-43d9-8130-43e566546752)
 
 ### 3. Services Section
 
-
+![Servies Pages](https://github.com/user-attachments/assets/06dab2e7-40b4-46c8-bdaa-9d071b4d258a)
 
 ### 4. SocialMedia Page
 
-
+![SocailMedia Pages](https://github.com/user-attachments/assets/1055bf00-8efa-4c08-9c33-8af20fdd08c0)
 
 ### 5. Contact Us Page
 
+![Contact Pages](https://github.com/user-attachments/assets/09a258ba-e2fc-4dad-a98a-1ed6cc1ad4df)
 
 ---
 
@@ -61,7 +62,7 @@ This web design is made for a **Personal Dietician Portfolio Website** and showc
 
 ## 🔗 Connect with Me
 
-Feel free to connect if you'd like a  personalized design like this!
+Feel free to connect if you'd like a personalized design like this!
 
 ---
 
