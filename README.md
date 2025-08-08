@@ -1,7 +1,5 @@
 # Dietician Portfolio Web Page Using Canva
 
----
-
 This is a responsive, visually engaging web design prototype built using Canva as part of the [Coursera Project Network](https://coursera.org/) course titled **"Use Canva to Create Desktop and Mobile-friendly Web Pages."**
 
 ---
@@ -63,6 +61,8 @@ This web design is made for a **Personal Dietician Portfolio Website** and showc
 ## 🔗 Connect with Me
 
 Feel free to connect if you'd like a personalized design like this!
+* [GitHub](https://github.com/Kaviya-3016)
+* [LinkedIn](https://www.linkedin.com/in/kaviya-murugan)
 
 ---
 
